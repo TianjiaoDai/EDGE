@@ -1,5 +1,5 @@
 # EDGE
-This repository contains R scripts for analyzing soil microbial community responses to extreme drought across a continental-scale precipitation gradient, supporting the manuscript: "Extreme drought favors soil microbial generalists across grasslands".
+This repository contains R scripts for analyzing soil microbial community responses to extreme drought across a continental-scale precipitation gradient, supporting the manuscript: "Extreme drought favors soil microbial generalists across grasslands" (Unpublished).
 
 Script Descriptions
 1. Diversity Analysis: LMM.R
